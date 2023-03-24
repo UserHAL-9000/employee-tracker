@@ -35,3 +35,5 @@ THEN I am prompted to select an employee to update and their new role and this i
 https://github.com/UserHAL-9000/employee-tracker
 
 ## Video Walk Through: 
+
+https://drive.google.com/file/d/1f_pCiTprp1KS9SLQ-5vVVJGyydZv5QLs/view
